@@ -56,7 +56,7 @@ Here are links to drivers of the 2 most used UART chips on ESP8266 development b
 ## Flash ESP8266
 
 1. Open `esp_duck/esp_duck.ino` with the Arduino IDE.
-2. Under `Tools` > `Board` in the `WiFi Duck ESP8266` section, select your board.
+2. Under `Tools` > `Board` in the `Malduino W (ESP8266)` section, select your board.
 3. Connect the **Malduino W ** by holding the **A** button via USB then select its port under `Tools` > `Port`.
 5. Press Upload.
 
